@@ -32,7 +32,7 @@ Go-to simple home-improvement bucket. White plastic translucent squarish pail.
 
 contents:
 
-\- Cordless Drill quarter inch hex drive w/ no. 2 Philips bit 2.5in long
+\- \[\[Cordless-Screwdriver]] Cordless Drill quarter inch hex drive w/ no. 2 Philips bit 2.5in long
 
 \- Screw Eyes eyebolts, 3/16 in eye (12) with custom drive bit
 
@@ -55,8 +55,4 @@ contents:
 \- Drywall Screw, 1 in long, (\~0.6 lb)
 
 \- Drywall Screw, 1.6 in long, (\~7 lb)
-
-
-
-
 
