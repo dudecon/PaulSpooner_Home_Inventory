@@ -34,9 +34,5 @@ Main residence. Contains many rooms and living areas.
 
 \## To-Do
 
-\- \[ ] Needs new windows
-
-
-
-
+\- \[ ] Needs 19 new windows and 2-4 new doors
 

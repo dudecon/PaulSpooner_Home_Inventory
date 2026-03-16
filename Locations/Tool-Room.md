@@ -38,6 +38,10 @@ contents:
 
 \- Main electrical panel for the house
 
+\- Turnbuckles, 3/8 in thread, 1k lb capacity (24)
+
+\- Screw Eyes eyebolts, 3/16 in eye (300)
+
 
 
 \## To-Dos
@@ -45,4 +49,8 @@ contents:
 \- \[ ] Inventory
 
 \- \[ ] Install and route wiring to water heater
+
+\- \[ ] Complete turnbuckles
+
+
 

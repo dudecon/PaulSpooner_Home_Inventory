@@ -16,7 +16,7 @@ dimensions-internal:
 
 &#x20; width:     9 in    #
 
-&#x20; height:    9 in    #
+&#x20; height:    7 in    #
 
 
 
@@ -32,29 +32,31 @@ Go-to simple home-improvement bucket. White plastic translucent squarish pail.
 
 contents:
 
-\- hammer, claw, small (2)
+\- Cordless Drill quarter inch hex drive w/ no. 2 Philips bit 2.5in long
 
-\- hammer, claw, miniature
+\- Screw Eyes eyebolts, 3/16 in eye (12) with custom drive bit
 
-\- hammer, claw (3)
+\- masking tape 1 in wide, blue
 
-\- hammer, claw, large framing hammer (2)
+\- Work Gloves, rubberized
 
-\- mallet, rubber (3)
+\- Work Gloves, leather
 
-\- hammer, ball-peen, large
+\- Safety glasses, foam rimmed
 
-\- hammer, ball-peen, medium (2)
+\- Wire cutters, side cutting
 
-\- hammer, ball-peen, small (2)
+\- Wire, bailing, 1/16 in steel, soft temper (\~2 lb)
 
-\- hammer, drilling 5lb small sledge
+\- Tape Measure, 25 ft
 
-\- hammer, finishing
+\- Drywall plastic wall anchor inserts (4)
 
-\- crowbar, flat wrecking bar, 12"
+\- Drywall Screw, 1 in long, (\~0.6 lb)
 
-\- plumbing monkey wrench (2)
+\- Drywall Screw, 1.6 in long, (\~7 lb)
 
-\- pliers, needle-nose (2)
+
+
+
 
