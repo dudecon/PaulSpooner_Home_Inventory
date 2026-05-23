@@ -6,9 +6,9 @@ name: Detached Garage
 
 parent: \[\[Property]]
 
-tags: \[location]
+tags: \[location, storage]
 
-utilities: "Two 20A circuits, WiFi, Plumbing to septic"
+utilities: "Two 20A circuits, Plumbing to septic"
 
 
 
@@ -59,4 +59,6 @@ The garage which contains no cars. Contains workshop downstairs and living area 
 \- \[ ] Bathroom ERV
 
 \- \[ ] Kitchenette stove hood
+
+\- \[ ] Connect plumbing to new basement pumped sump
 
