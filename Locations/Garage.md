@@ -8,7 +8,7 @@ parent: \[\[Detached-Garage]]
 
 tags: \[location, workshop]
 
-utilities: "Two 20A circuits with sub-panel, Floor drains to septic"
+utilities: "Two 20A circuits with sub-panel, Floor drains to septic, Natural gas lines (currently no hookups)"
 
 
 
@@ -18,7 +18,7 @@ dimensions-internal:
 
 &#x20; width:    18 ft    #
 
-&#x20; area:   \~400 sq ft  # 
+&#x20; area:   \~400 sq ft  #
 
 &#x20; notes: "garage is partially finished"
 
@@ -30,5 +30,19 @@ dimensions-internal:
 
 \# Garage
 
-The garage which contains no cars.
+The garage which contains no cars. Turning more and more into a workshop.
+
+
+
+
+
+\## Quick Contents List (may not have separate files yet)
+
+
+
+contents:
+
+\- Workbenches
+
+\- Drawers
 

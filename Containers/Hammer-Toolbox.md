@@ -48,8 +48,6 @@ contents:
 
 \- hammer, ball-peen, small (2)
 
-\- hammer, drilling 5lb small sledge
-
 \- hammer, finishing
 
 \- crowbar, flat wrecking bar, 12"

@@ -30,6 +30,8 @@ dimensions-internal:
 
 Red and black soft-sided tool bag with carrying handles. Tools for hard materials like steel and stone.
 
+Lives under the workbench directly beneath where the angle grinder is hanging on the wall, by the middle outlet.
+
 
 
 \## Quick Contents List (no separate files yet)
@@ -48,7 +50,7 @@ contents:
 
 \- Tape Measure, 16 ft, metal body, STANLEY POWERLOCK II
 
-\- Hammer, drilling (wooden handle) 48 oz
+\- Hammer, drilling (wooden handle) 48 oz, small sledge
 
 \- Cold Chisels (long, short, wide, offset) with yellow hand protector
 
