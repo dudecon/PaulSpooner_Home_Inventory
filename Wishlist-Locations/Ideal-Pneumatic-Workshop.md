@@ -56,7 +56,7 @@ Target enhanced pneumatic capability in \[\[Garage]] / \[\[Garage Workshop Area]
 
 \- Nailers stored together near compressors for easy hookup. Make tool hooks on compressors?
 
-\- No dedicated rolling cart needed – use wheelbarrow if necessary.
+\- No dedicated rolling cart needed – use wheelbarrow if necessary. We already have a rolling cart though, maybe convert this to a container?
 
 
 

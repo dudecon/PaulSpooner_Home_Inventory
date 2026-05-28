@@ -8,7 +8,7 @@ parent: \[\[Detached-Garage]]
 
 tags: \[location, workshop]
 
-utilities: "Two 20A circuits with sub-panel, Floor drains to septic, Natural gas lines (currently no hookups)"
+utilities: "Two 20A circuits with sub-panel, Floor drains to septic, Natural gas lines (currently no hookups in the garage)"
 
 
 
@@ -30,7 +30,7 @@ dimensions-internal:
 
 \# Garage
 
-The garage which contains no cars. Turning more and more into a workshop.
+The garage which contains no cars. Turning into a workshop.
 
 
 
@@ -40,9 +40,65 @@ The garage which contains no cars. Turning more and more into a workshop.
 
 
 
+Sub-Locations:
+
+\- \[\[Garage-Closet]] on the west side. (separately inventoried)
+
+\- \[\[Corner-shelving-Garage]] south-east corner (separately inventoried)
+
+\- Under-stairs storage, south
+
+\- Workbenches on the east side (north and south). Has three outlets and shelves above.
+
+\- Big Metal Drawers (3), north-east corner
+
+\- Solid Workbench
+
+
+
+
+
 contents:
 
-\- Workbenches
+\- Bandsaw
 
-\- Drawers
+\- Chopsaw
+
+
+
+
+
+contents: Under-stairs:
+
+
+
+contents: Workbenches:
+
+\- ##Tools hanging on the wall##
+
+\- Orbital sander (2)
+
+\- Impact Driver, Corded, 1/2"
+
+\- Jigsaw, corded (no blades?)
+
+\- Drill, Right-angle corded (with chuck key)
+
+\- Blower, corded
+
+\- Weed Whacker, corded
+
+\- Throwing knives (5)
+
+\- Machete, Tanto style (with soft scabbard)
+
+
+
+
+
+\## To-Dos
+
+\- \[ ] Inventory (a dangerous passtime, I know)
+
+
 

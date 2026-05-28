@@ -48,6 +48,8 @@ contents:
 
 \- hammer, ball-peen, small (2)
 
+\- hammer, ball-peen, tiny (2)
+
 \- hammer, finishing
 
 \- crowbar, flat wrecking bar, 12"
@@ -55,4 +57,14 @@ contents:
 \- plumbing monkey wrench (2)
 
 \- pliers, needle-nose (2)
+
+
+
+\## To-Dos
+
+\- \[ ] Hang hammers on wall (verify on xfr)
+
+\- \[ ] Distribute other tools
+
+\- \[ ] Repurpose for things that could use a metal toolbox (3DP inserts?)
 
