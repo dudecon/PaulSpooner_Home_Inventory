@@ -40,9 +40,9 @@ Mostly used for misc gardening tools, hardwood chunks. Shelving along the west w
 
 contents:
 
-\- Pruning shears (8?) hanging on wall
+\- Pruning shears, one handed (8) hanging on wall
 
-\- Gardening tools (in cardboard box) (approx. contents here?)
+\- \[\[Gardening-Box]] assorted gardening tools
 
 \- \[\[Climbing Gear Bin]]
 
@@ -52,13 +52,39 @@ contents:
 
 \- \[\[Second, distinct, Camping Gear Bin?]]
 
-\- Hardwood chunks, large cardboard vertical boxes (3?)
+\- Hardwood chunks, large cardboard vertical boxes (3)
 
-\- Bucket of Men's Gloves (\~dozen pair?)
+\- Bucket of Men's Gloves (13 pair)
 
-\- Pile of Women's Gloves (\~dozen pair?)
+\- Pile of Women's Gloves (8 pair)
 
-\- Pile of Tile, assorted (\~140 lb?)
+\- Pile of Tile, assorted (\~140 lb)
+
+\- Calzone Hard Case, Foam lined, internal 16" deep x 23" wide x 8" tall
+
+\- Backpack
+
+\- Air mattress (2?)
+
+\- Tent? (1?)
+
+\- Bag of chicken feed (\~15 lb)
+
+\- Assorted gardening supplies (pots, sprinklers, fertilizer)
+
+\- Fishing poles (8)
+
+\- Stepstool
+
+\- Pruning shears, two handed (2) hanging on wall to right of door
+
+\- Handsaw (2) hanging on wall to right of door
+
+\- Handheld liquid sprayer, 2 gal (1)
+
+
+
+
 
 
 

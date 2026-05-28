@@ -42,8 +42,6 @@ contents:
 
 \- Pruning shears, one handed (2)
 
-\- Pruning shears, two handed (1)
-
 \- Chisel, spoon-shaped and inverted spear shaped (2)
 
 \- Hand hoe (4)
