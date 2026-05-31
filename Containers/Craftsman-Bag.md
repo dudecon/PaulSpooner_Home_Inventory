@@ -63,9 +63,7 @@ contents:
 
 \- Hexagonal construction crayon oil pencil
 
-\- Bell-Hollow construction flashlight (2) one is missing the battery cover, in backpack for modeling
-
-
+\- Bell-Hollow construction flashlight (2)
 
 
 
@@ -73,9 +71,5 @@ contents:
 
 \- \[x] Inventory (including dims and description)
 
-\- \[ ] Find/3DP Bell-Hollow construction flashlight battery cover
-
-
-
-
+\- \[x] Find/3DP Bell-Hollow construction flashlight battery cover
 
