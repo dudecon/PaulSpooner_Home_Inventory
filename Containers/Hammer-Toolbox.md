@@ -7,7 +7,7 @@ name: Hammer Toolbox
 parent: \[\[Garage-Closet]]
 
 tags: \[container]
-synonyms: "hammer toolbox, hammer box, mallet box, wrecking bar container"
+synonyms: "hammer toolbox, hammer box, mallet box"
 
 
 
@@ -25,47 +25,19 @@ dimensions-internal:
 
 \# Hammer Toolbox
 
-Currently holds most of our spare hammers
+Empty metal toolbox. Ready for repurposing.
 
 
 
 \## Quick Contents List (no separate files yet)
 
-contents:
-
-\- hammer, claw, small (2)
-
-\- hammer, claw, miniature
-
-\- hammer, claw (3)
-
-\- hammer, claw, large framing hammer (2)
-
-\- mallet, rubber (3)
-
-\- hammer, ball-peen, large
-
-\- hammer, ball-peen, medium (2)
-
-\- hammer, ball-peen, small (2)
-
-\- hammer, ball-peen, tiny (2)
-
-\- hammer, finishing
-
-\- crowbar, flat wrecking bar, 12"
-
-\- plumbing monkey wrench (2)
-
-\- pliers, needle-nose (2)
+contents: (empty)
 
 
 
 \## To-Do
 
-\- \[ ] Hang hammers on wall (verify on xfr)
-
-\- \[ ] Distribute other tools
-
-\- \[ ] Repurpose for things that could use a metal toolbox (3DP inserts?)
+\- \[ ] Repurpose the empty metal toolbox (3DP inserts? other uses?)
+\- \[ ] Decide final home for the empty Hammer Toolbox (move to \[\[North-East-Corner-Garage]] shelf area?)
+\- \[ ] Update synonyms / description once repurposed
 

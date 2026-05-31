@@ -53,6 +53,8 @@ Sub-Locations:
 
 \- Big Metal Drawers (3), north-east corner
 
+\- \[\[North-East-Corner-Garage]] shelf above the Big Metal Drawers (3) in north-east corner; also crowbars on conduit below shelf + hammer storage + \[\[Milwaukee-Pliers-Bag]] (separately inventoried)
+
 \- Solid Workbench
 
 
