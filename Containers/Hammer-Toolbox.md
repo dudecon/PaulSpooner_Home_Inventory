@@ -7,6 +7,7 @@ name: Hammer Toolbox
 parent: \[\[Garage-Closet]]
 
 tags: \[container]
+synonyms: "hammer toolbox, hammer box, mallet box, wrecking bar container"
 
 
 
@@ -60,7 +61,7 @@ contents:
 
 
 
-\## To-Dos
+\## To-Do
 
 \- \[ ] Hang hammers on wall (verify on xfr)
 

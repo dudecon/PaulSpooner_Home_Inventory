@@ -54,7 +54,7 @@ contents:
 
 
 
-\## To-Dos
+\## To-Do
 
 \- \[ ] Inventory (partial)
 

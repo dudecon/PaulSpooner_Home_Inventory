@@ -70,3 +70,11 @@ Target enhanced pneumatic capability in \[\[Garage]] / \[\[Garage Workshop Area]
 
 Related projects: \[\[Implement-Pneumatic-Workshop]]
 
+## To-Do
+
+- [ ] Prioritize and purchase the 30Gal Wheeled Air Compressor
+- [ ] Purchase the 18-gauge Brad Nailer
+- [ ] Acquire basic air accessories (quick-connects, regulator/filter, hose)
+- [ ] Reorganize garage area to create the "Ideal Pneumatic Workshop" zone
+- [ ] Update this note to "instantiated" once the main items are in place and linked
+

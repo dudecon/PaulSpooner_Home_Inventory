@@ -7,6 +7,7 @@ name: Screw Bucket
 parent: \[\[Tool-Room]]
 
 tags: \[container]
+synonyms: "screw bucket, drywall bucket, home improvement bucket, fastener bucket"
 
 
 
@@ -55,4 +56,9 @@ contents:
 \- Drywall Screw, 1 in long, (\~0.6 lb)
 
 \- Drywall Screw, 1.6 in long, (\~7 lb)
+
+## To-Do
+
+- [ ] Review and verify all quantities listed
+- [ ] Consider promoting high-use items (e.g. specific screw types) to individual Item files if frequently referenced
 

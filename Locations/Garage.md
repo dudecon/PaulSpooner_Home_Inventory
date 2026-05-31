@@ -7,6 +7,7 @@ name: Garage
 parent: \[\[Detached-Garage]]
 
 tags: \[location, workshop]
+synonyms: "main garage, workshop garage, detached garage workshop"
 
 utilities: "Two 20A circuits with sub-panel, Floor drains to septic, Natural gas lines (currently no hookups in the garage)"
 
@@ -96,9 +97,9 @@ contents: Workbenches:
 
 
 
-\## To-Dos
+\## To-Do
 
-\- \[ ] Inventory (a dangerous passtime, I know)
+\- \[ ] Inventory (a dangerous pastime, I know)
 
 
 

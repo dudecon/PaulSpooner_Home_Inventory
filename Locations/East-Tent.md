@@ -66,3 +66,9 @@ contents:
 
 \- Bicycles and kids trikes
 
+## To-Do
+
+- [ ] Perform full inventory of contents
+- [ ] Set a recurring last-inventoried date
+- [ ] Consider adding more tie-down points or better anchoring for high winds
+

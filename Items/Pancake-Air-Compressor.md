@@ -39,6 +39,7 @@ provides-utilities:
 &#x20; - compressed-air: "TBD PSI/SCFM – currently powers \[\[Framing-Nailer]] for light use"
 
 tags: \[compressor, portable, pneumatic]
+synonyms: "air compressor, pancake compressor, portable compressor"
 
 photos: 
 
@@ -73,4 +74,12 @@ Small portable pancake-style unit with no wheels. Good for occasional/light fram
 \- \[ ] Test runtime with nailer
 
 \- \[ ] Photograph setup/location
+
+## To-Do
+
+- [ ] Confirm exact tank size (label says 6, 8, 10 gal?)
+- [ ] Note brand/model/serial from plate
+- [ ] Test runtime with nailer
+- [ ] Photograph setup/location
+- [ ] Update location to specific spot in Garage once verified
 

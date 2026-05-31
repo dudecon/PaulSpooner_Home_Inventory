@@ -19,10 +19,11 @@ condition: good
 quantity: 1
 
 tags: \[power-tool, angle-grinder, bauer, corded, harbor-freight]
+synonyms: "grinder, 4.5 grinder, angle grinder, cutoff tool, bauer grinder"
 
 photos: 
 
-&#x20;- attachments/bauer-1865e-b.jpg
+&#x20; - attachments/bauer-1865e-b.jpg
 
 dimensions: 12.6 x 5.5 x 5 inches
 
@@ -71,6 +72,11 @@ location: \[\[Husky-Hard-Tools]]
 \- Grinding/cutting wheels sold separately.
 
 \- Includes pin wrench (for wheel changes) and full user manual (they live in the bag).
+
+## To-Do
+
+- [ ] Add serial number when located
+- [ ] Update purchase-date if known
 
 
 

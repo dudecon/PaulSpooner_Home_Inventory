@@ -16,7 +16,7 @@ dimensions-internal:
 
 &#x20; area:   1.05 acre # no auto due to irregular lot boundary
 
-&#x20; notes: "Back gulley covers \~50% of the area"
+&#x20; notes: "Back gully covers \~50% of the area"
 
 \---
 

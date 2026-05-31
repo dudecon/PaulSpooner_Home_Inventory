@@ -7,6 +7,7 @@ name: Tape Bucket
 parent: \[\[Tool-Room]]
 
 tags: \[container]
+synonyms: "tape bucket, duct tape, packing tape, masking tape storage"
 
 
 
@@ -45,4 +46,9 @@ contents:
 \- Tape, masking, blue, 2 in wide (42 yards)
 
 \- Tape, masking, blue, 1.5 in wide (60 yards)
+
+## To-Do
+
+- [ ] Review and verify tape quantities and condition
+- [ ] Consider consolidating or labeling rolls better for quick access
 

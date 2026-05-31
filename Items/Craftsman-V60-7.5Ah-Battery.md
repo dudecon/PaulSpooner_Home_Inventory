@@ -28,3 +28,8 @@ High-capacity battery for V60 platform tools.
 
 Acquire more if they are a good deal. Not made new any more, but good condition are $300
 
+## To-Do
+
+- [ ] Monitor for good deals on additional V60 7.5Ah batteries
+- [ ] Consider adding photos
+

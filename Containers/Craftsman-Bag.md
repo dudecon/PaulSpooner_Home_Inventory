@@ -4,9 +4,10 @@ type: container
 
 name: Craftsman Bag
 
-parent: \[\[Garage-Workbench]]
+parent: \[\[Garage]]  # Lives at one of the workbenches (not separately inventoried yet)
 
 tags: \[container, tool-bag]
+synonyms: "craftsman bag, general tool bag, screwdriver set, utility blades"
 
 
 
@@ -68,7 +69,7 @@ contents:
 
 
 
-\## To-Dos
+\## To-Do
 
 \- \[x] Inventory (including dims and description)
 

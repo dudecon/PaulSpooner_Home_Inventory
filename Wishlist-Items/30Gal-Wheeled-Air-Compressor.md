@@ -41,6 +41,7 @@ compatible-with: \[\[Framing-Nailer]]  # Primary target tool
 target-location: \[\[Garage]] or \[\[Ideal-Pneumatic-Workshop]]
 
 tags: \[compressor, upgrade, wishlist]
+synonyms: "air compressor, wheeled compressor, shop compressor, 30 gal compressor"
 
 \---
 
@@ -69,4 +70,11 @@ Desired upgrade from current \[\[Pancake-Air-Compressor]] for longer runtimes, l
 \- Check reviews for noise/durability
 
 \- Add to \[\[Implement-Pneumatic-Workshop]] project once prioritized
+
+## To-Do
+
+- [ ] Research specific models (Fortress 27 gal, Husky 30 gal, California Air Tools quiet options)
+- [ ] Check current prices and reviews at Harbor Freight / online
+- [ ] Decide on oil-free vs oil-lubricated
+- [ ] Add to \[\[Implement-Pneumatic-Workshop]] project when ready to buy
 

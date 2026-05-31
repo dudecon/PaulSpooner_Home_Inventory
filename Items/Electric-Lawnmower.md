@@ -21,6 +21,7 @@ condition: good
 quantity: 1
 
 tags: \[lawn-care, electric, self-propelled, v60]
+synonyms: "lawn mower, electric mower, craftsman mower, v60 mower, self-propelled mower"
 
 location: \[\[East-Tent]]
 

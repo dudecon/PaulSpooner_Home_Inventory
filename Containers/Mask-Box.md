@@ -7,6 +7,7 @@ name: Mask Box
 parent: \[\[Corner-shelving-Garage]]
 
 tags: \[container, plastic-box]
+synonyms: "mask box, respirator box, ppe masks, n95 box"
 
 
 
@@ -54,7 +55,7 @@ contents:
 
 
 
-\## To-Dos
+\## To-Do
 
 \- \[x] Inventory (including dims and description)
 

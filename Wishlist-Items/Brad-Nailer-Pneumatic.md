@@ -47,6 +47,7 @@ compatible-with: \[\[Pancake-Air-Compressor]] (current) / \[\[30Gal-Wheeled-Air-
 target-location: \[\[Garage]] near compressor zone
 
 tags: \[pneumatic, brad-nailer, finish-tool, wishlist]
+synonyms: "brad nailer, 18 gauge nailer, finish nailer, pneumatic brad gun"
 
 \---
 
@@ -79,6 +80,12 @@ Desired for clean finish and trim work (molding, baseboards, cabinetry, paneling
 \- Check local stores (Home Depot, Harbor Freight in Coeur d'Alene area) or online for deals.
 
 \- Add to \[\[Ideal-Pneumatic-Workshop]] blueprint and \[\[Implement-Pneumatic-Workshop]] project.
+
+## To-Do
+
+- [ ] Research specific 18-gauge brad nailer models (Bostitch, Metabo HPT, Wen, Porter-Cable)
+- [ ] Check prices and reviews at local stores (Home Depot, Harbor Freight in Coeur d'Alene area)
+- [ ] Add to \[\[Ideal-Pneumatic-Workshop]] blueprint
 
 
 

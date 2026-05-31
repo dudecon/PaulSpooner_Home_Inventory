@@ -7,6 +7,7 @@ name: PPE Bag
 parent: \[\[Corner-shelving-Garage]]
 
 tags: \[container, tool-bag]
+synonyms: "ppe bag, safety gear bag, ear protection, safety goggles bag"
 
 
 
@@ -60,7 +61,7 @@ contents:
 
 
 
-\## To-Dos
+\## To-Do
 
-\- \[X] Inventory (including dims and description)
+\- \[x] Inventory (including dims and description)
 

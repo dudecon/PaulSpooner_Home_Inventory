@@ -22,5 +22,11 @@ parent-item: \[\[Electric-Lawnmower]]
 
 
 
-Compatible with all V60 batteries. LED charge indicator. (got it from Ebay for \~$50, has not arrived yet)
+Compatible with all V60 batteries. LED charge indicator. (got it from Ebay for ~$50)
+
+## To-Do
+
+- [ ] Confirm arrival and update status
+- [ ] Add purchase date
+- [ ] Photograph the charger
 

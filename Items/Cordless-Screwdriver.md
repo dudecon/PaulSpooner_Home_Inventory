@@ -19,6 +19,7 @@ condition: good
 quantity: 1
 
 tags: \[power-tool, screwdriver, milwaukee, m12]
+synonyms: "milwaukee screwdriver, m12 screwdriver, hex driver, cordless screwdriver"
 
 photos: 
 

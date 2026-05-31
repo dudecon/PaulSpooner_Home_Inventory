@@ -7,6 +7,7 @@ name: Gardening Box
 parent: \[\[Garage-Closet]]
 
 tags: \[container, cardboard-box]
+synonyms: "gardening box, garden tools box, weeding tools"
 
 
 
@@ -58,7 +59,7 @@ contents:
 
 
 
-\## To-Dos
+\## To-Do
 
 \- \[x] Inventory (including dims and description)
 

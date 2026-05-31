@@ -29,6 +29,7 @@ requires-utilities:
 compatible-with: \[\[Pancake-Air-Compressor]]  # Current small one; upgrade path to \[\[30Gal-Wheeled-Air-Compressor]]
 
 tags: \[pneumatic, nailer, framing]
+synonyms: "nail gun, framer, framing gun, 21 degree nailer, framing nailer"
 
 photos: 
 
@@ -69,4 +70,14 @@ Purchased by Anna at an estate sale. Needs verification.
 
 
 Once verified, update location to precise spot (e.g. shelf or cart) and add to any relevant blueprints/projects.
+
+## To-Do
+
+- [ ] Test fire with current \[\[Pancake-Air-Compressor]] (check for consistent depth, no leaks)
+- [ ] Clean/oil if needed
+- [ ] Photograph label/serial/plate
+- [ ] Locate manual or look up model online
+- [ ] Confirm exact brand/model/serial
+- [ ] Note any issues (e.g. o-ring leaks common on used nailers)
+- [ ] Update location to a specific container once verified
 

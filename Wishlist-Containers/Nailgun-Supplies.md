@@ -96,3 +96,10 @@ contents:
 
 \- \[ ] Update location to precise spot
 
+## To-Do
+
+- [ ] Acquire dedicated bin/tote for nailgun supplies
+- [ ] Stock initial framing nails, brad nails, tool oil, fittings, etc.
+- [ ] Photograph the organized bin once stocked
+- [ ] Link this container to the Framing Nailer and future Brad Nailer once both are verified
+

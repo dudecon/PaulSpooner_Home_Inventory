@@ -9,6 +9,7 @@ status: planned
 priority: medium
 
 target-item: \[\[Cordless-Screwdriver]]
+synonyms: "m12 dummy battery, dummy battery adapter, bench power m12, car battery adapter"
 
 location: \[\[Screw-Bucket]]
 

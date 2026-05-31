@@ -4,7 +4,7 @@ type: container
 
 name: Husky Hard Tools
 
-parent: \[\[Garage-Workbench]]
+parent: \[\[Garage]]  # Lives under the workbench (not separately inventoried yet)
 
 tags: \[container, tool-bag]
 
@@ -65,4 +65,9 @@ contents:
 \- Safety goggles
 
 \- Folding box-cutter
+
+## To-Do
+
+- [ ] Review and verify full contents list
+- [ ] Consider adding photos of the bag and key high-value items inside
 
