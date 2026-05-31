@@ -39,7 +39,7 @@ Cardboard box. Gardening tools
 
 contents:
 
-\- Pick, mini gardening (2)
+\- Pick, mini gardening (3)
 
 \- Pruning shears, one handed (2)
 
