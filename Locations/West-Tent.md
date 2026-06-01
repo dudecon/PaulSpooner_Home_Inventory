@@ -49,33 +49,43 @@ contents:
 
 Long-handled hand tools:
 
-\- Breaker bar, steel 1" by 64" long
+\- Breaker bar, post hole digger and tamping bar, solid steel 1" (2)
 
-\- Rigid tine rakes, soil (3)
+\- Rigid tine rakes, soil (4)
 
-\- Flex tine rakes, leaf (5)
+\- Flex tine rakes, leaf (7) one is missing the handle
 
-\- Edge cutters/scrapers, soil (2)
-
-\- Car windshield ice/snow scrapers (6)
+\- Edge cutters/scrapers, soil (3)
 
 \- Pruning loppers (3)
 
+\- Pole-Pruning loppers (3) one has a pole saw as well
+
 \- Long-spike angled tilling spike roller
+
+\- Long-spike twist-tilling spike tool
 
 \- Post hole digger
 
-\- Trenching shovel
+\- Trenching shovel (2)
 
-\- Flat-nose shovel (2)
+\- Flat-nose shovel (3)
 
-\- Round nose shovel/spade (3)
+\- Round nose shovel/spade (6)
 
-\- Wide stable mucking shovel
+\- Wide stable mucking shovel (2)
 
-\- Pickaxe (2)
+\- Pickaxe (5)
 
 \- Foldable entrenching tool (jammed open, but still usable)
+
+\- Pitchforks (2)
+
+\- Hoe, Flat-face (2)
+
+\- Hoe, pointed (2)
+
+\- Hoe, loop rake
 
 
 
@@ -85,4 +95,5 @@ Long-handled hand tools:
 
 * \[ ] Perform full inventory of contents
 * \[ ] Determine primary uses and sub-locations
+* \[ ] Put a new handle on the leaf rake that is missing one.
 
