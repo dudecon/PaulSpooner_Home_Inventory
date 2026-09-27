@@ -25,8 +25,6 @@ dimensions-internal:
 
 
 
-
-
 \---
 
 \# Garage
@@ -36,10 +34,7 @@ The garage which contains no cars. Turning into a workshop.
 
 
 
-
 \## Quick Contents List (may not have separate files yet)
-
-
 
 Sub-Locations:
 
@@ -59,21 +54,18 @@ Sub-Locations:
 
 
 
-
-
 contents:
 
 \- Bandsaw
 
 \- Chopsaw
 
+\- \[\[18-Gallon-Tarp-Tubs]] two 18-gallon plastic tubs holding tarps
 
 
 
 
 contents: Under-stairs:
-
-
 
 contents: Workbenches:
 
@@ -97,11 +89,7 @@ contents: Workbenches:
 
 
 
-
-
 \## To-Do
 
 \- \[ ] Inventory (a dangerous pastime, I know)
-
-
 
