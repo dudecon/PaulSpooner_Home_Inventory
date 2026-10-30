@@ -62,6 +62,8 @@ contents:
 
 \- \[\[18-Gallon-Tarp-Tubs]] two 18-gallon plastic tubs holding tarps
 
+\- \[\[Husky-46-Piece-Stubby-Tool-Set]] on the grayish brown bench with the drawers (Big Metal Drawers area)
+
 
 
 
