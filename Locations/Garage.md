@@ -66,6 +66,8 @@ contents:
 
 \- \[\[Hex-Key-Bag]] bag filled with hex keys on the grayish brown bench with the drawers (Big Metal Drawers area)
 
+\- \[\[Metal-Wire-Spools]] spools of metal wire on the grayish brown bench with the drawers (Big Metal Drawers area)
+
 
 
 
