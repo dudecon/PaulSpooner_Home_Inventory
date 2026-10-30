@@ -114,6 +114,8 @@ contents:
 
 \- Pittsburgh organized plastic fastener kit in the top drawer of the grayish brown desk (Big Metal Drawers)
 
+\- Yellow container (all the way to the left) in the top drawer of the grayish brown desk holding: small 1-in nails, very small 0.5-in nails, some 3-1/8-in nails, some 1-1/4-in screws, and some 1/4-in screws (Big Metal Drawers)
+
 
 
 
