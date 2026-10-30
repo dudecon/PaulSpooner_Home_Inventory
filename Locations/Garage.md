@@ -84,6 +84,8 @@ contents:
 
 \- ~100 cotter pins in the top drawer of the grayish brown desk (Big Metal Drawers)
 
+\- Container of ~20 1.5-in screws in the top drawer of the grayish brown desk (Big Metal Drawers)
+
 
 
 
