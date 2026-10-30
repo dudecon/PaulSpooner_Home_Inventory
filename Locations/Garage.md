@@ -70,6 +70,8 @@ contents:
 
 \- \[\[Soldering-Iron]] on the grayish brown bench with the cabinets (Big Metal Drawers area)
 
+\- Bucket of ~8 in screws (~20) in the top drawer of the grayish brown cabinet (Big Metal Drawers)
+
 
 
 
