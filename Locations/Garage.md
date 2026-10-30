@@ -86,6 +86,8 @@ contents:
 
 \- Container of ~20 1.5-in screws in the top drawer of the grayish brown desk (Big Metal Drawers)
 
+\- Box of ~50 mixed screws (~4 in to 2.5 in) in the top drawer of the grayish brown desk (Big Metal Drawers)
+
 
 
 
