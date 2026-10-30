@@ -4,7 +4,7 @@ type: container
 
 name: Hex Key Bag
 
-parent: \[\[Garage]]  # Location details TBD — bag filled with hex keys
+parent: \[\[Garage]]  # On the grayish brown bench with the drawers (Big Metal Drawers area, north-east corner)
 
 tags: \[container, tool-bag, hex-keys, allen-wrenches]
 
@@ -32,7 +32,7 @@ dimensions-internal:
 
 Bag filled with hex keys (Allen wrenches). Includes at least one Eklind inch-size set.
 
-Location details TBD.
+Lives on the grayish brown bench with the drawers in the \[\[Garage]].
 
 
 
@@ -49,8 +49,6 @@ contents:
 
 
 \## To-Do
-
-\- \[ ] Confirm exact location and update parent
 
 \- \[ ] Inventory individual sizes/sets
 
