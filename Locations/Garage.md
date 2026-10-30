@@ -94,6 +94,8 @@ contents:
 
 \- Small container of 1-in staples in the top drawer of the grayish brown cabinet (Big Metal Drawers)
 
+\- Container of 5000 3/8-in staples in the top drawer of the grayish brown cabinet (Big Metal Drawers)
+
 
 
 
