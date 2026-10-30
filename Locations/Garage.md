@@ -76,6 +76,10 @@ contents:
 
 \- Box of ~50 2-in screws in the top drawer of the grayish brown cabinet (Big Metal Drawers)
 
+\- Container of 1-in staples in the top drawer of the grayish brown cabinet (Big Metal Drawers)
+
+\- Container of 2-in staples in the top drawer of the grayish brown cabinet (Big Metal Drawers)
+
 
 
 
