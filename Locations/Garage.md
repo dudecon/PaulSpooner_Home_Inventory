@@ -64,6 +64,8 @@ contents:
 
 \- \[\[Husky-46-Piece-Stubby-Tool-Set]] on the grayish brown bench with the drawers (Big Metal Drawers area)
 
+\- \[\[Hex-Key-Bag]] bag filled with hex keys (location TBD)
+
 
 
 
