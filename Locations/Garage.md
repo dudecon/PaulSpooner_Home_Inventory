@@ -100,6 +100,8 @@ contents:
 
 \- Container of 60 3-in screws in the top drawer of the grayish brown desk (Big Metal Drawers)
 
+\- Container of ~40 screws with washers and paddings in the top drawer of the grayish brown desk (Big Metal Drawers)
+
 
 
 
