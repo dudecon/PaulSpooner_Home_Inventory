@@ -68,6 +68,8 @@ contents:
 
 \- \[\[Metal-Wire-Spools]] spools of metal wire on the grayish brown bench with the drawers (Big Metal Drawers area)
 
+\- \[\[Soldering-Iron]] on the grayish brown bench with the cabinets (Big Metal Drawers area)
+
 
 
 
