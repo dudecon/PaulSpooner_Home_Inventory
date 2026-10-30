@@ -110,6 +110,8 @@ contents:
 
 \- Container of locking nuts and bolts in the top drawer of the grayish brown cabinet (Big Metal Drawers)
 
+\- Box of organized eye screws, nuts, and I-bolts in the top drawer of the grayish brown desk (Big Metal Drawers)
+
 
 
 
