@@ -74,6 +74,8 @@ contents:
 
 \- Box of ~100 3-in screws in the top drawer of the grayish brown desk (Big Metal Drawers)
 
+\- Box of ~50 2-in screws in the top drawer of the grayish brown cabinet (Big Metal Drawers)
+
 
 
 
