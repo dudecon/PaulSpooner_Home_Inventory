@@ -92,6 +92,8 @@ contents:
 
 \- \[\[Central-Pneumatic-Air-Compressor]] 2 HP 8-gal model 95386 next to the band saw
 
+\- Small container of 1-in staples in the top drawer of the grayish brown cabinet (Big Metal Drawers)
+
 
 
 
