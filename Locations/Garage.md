@@ -112,6 +112,8 @@ contents:
 
 \- Box of organized eye screws, nuts, and I-bolts in the top drawer of the grayish brown desk (Big Metal Drawers)
 
+\- Pittsburgh organized plastic fastener kit in the top drawer of the grayish brown desk (Big Metal Drawers)
+
 
 
 
