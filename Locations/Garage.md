@@ -90,6 +90,8 @@ contents:
 
 \- Container of ~30 3.5-in nails in the top drawer of the grayish brown desk (Big Metal Drawers)
 
+\- \[\[Central-Pneumatic-Air-Compressor]] 2 HP 8-gal model 95386 next to the band saw
+
 
 
 
