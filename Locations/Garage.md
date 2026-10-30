@@ -80,6 +80,8 @@ contents:
 
 \- Container of 2-in staples in the top drawer of the grayish brown cabinet (Big Metal Drawers)
 
+\- Container of mixed screws (~4 in to 0.5 in) in the top drawer of the grayish brown desk (Big Metal Drawers)
+
 
 
 
