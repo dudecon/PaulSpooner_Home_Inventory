@@ -108,6 +108,8 @@ contents:
 
 \- Container of 10-in screws (quantity TBD) in the top drawer of the grayish brown desk (Big Metal Drawers)
 
+\- Container of locking nuts and bolts in the top drawer of the grayish brown cabinet (Big Metal Drawers)
+
 
 
 
