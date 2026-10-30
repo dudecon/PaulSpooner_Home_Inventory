@@ -104,6 +104,8 @@ contents:
 
 \- Container of ~20 0.5-in nails in the top drawer of the grayish brown cabinet (Big Metal Drawers)
 
+\- Container of ~50 1.25-in nails in the top drawer of the grayish brown cabinet (Big Metal Drawers)
+
 
 
 
