@@ -102,6 +102,8 @@ contents:
 
 \- Container of ~40 screws with washers and paddings in the top drawer of the grayish brown desk (Big Metal Drawers)
 
+\- Container of ~20 0.5-in nails in the top drawer of the grayish brown cabinet (Big Metal Drawers)
+
 
 
 
